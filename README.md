@@ -50,7 +50,7 @@ jupyter-nbextension enable rise --py --sys-prefix
 
 Conclusion: If you use conda, life will be easy ;-)
 
-**NOTE**: in alll the options available the `--sys-prefix` option will install and
+**NOTE**: in all the options available the `--sys-prefix` option will install and
 enable the extension in the current environment, if you want a `--user` based or a
 `--system` based installation just use those option instead in the above commands.
 
